@@ -1,3 +1,5 @@
+# The PHP version of this website is deprecated and no longer used and/or supported. Please refer to the NodeJS version @ master.
+
 >Original: https://megumin.love
 
 # Megumin.love
